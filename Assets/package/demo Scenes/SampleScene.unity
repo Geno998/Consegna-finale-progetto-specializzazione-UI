@@ -685,10 +685,6 @@ PrefabInstance:
       propertyPath: TaskbarManager
       value: 
       objectReference: {fileID: 1543970269}
-    - target: {fileID: 7198173701556080025, guid: 9ef0f18591bab994eb40f687cd74bd0c, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

@@ -228,7 +228,7 @@ public class ShopUI : MonoBehaviour
         if (qtyText) qtyText.text = _qty.ToString();
 
         long total = (long)priceEach * _qty;
-        if (buyTotalPrice) buyTotalPrice.text = "Total price:" + total.ToString("N0") + "$";
+        if (buyTotalPrice) buyTotalPrice.text = "Tot. price:" + total.ToString("N0") + "$";
 
         // Abilita il bottone solo se si può permettere il costo (se wallet è assegnato)
         bool canAfford = wallet == null || wallet.Balance >= total;
