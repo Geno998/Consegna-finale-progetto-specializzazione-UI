@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce410e9e25ffc47975fab6aaf04a09, type: 3}
+  m_Name: Gem 8
+  m_EditorClassIdentifier: 
+  itemID: 22004
+  maxStackSize: 64
+  itemSprite: {fileID: 21300000, guid: 3faa68d4e2f05f04786133598667ac36, type: 3}
+  itemName: Diamond
+  itemType: 0
+  buyPrice: 1000
+  sellPrice: 800

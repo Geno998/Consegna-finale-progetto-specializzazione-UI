@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce410e9e25ffc47975fab6aaf04a09, type: 3}
+  m_Name: Sword 3
+  m_EditorClassIdentifier: 
+  itemID: 31003
+  maxStackSize: 1
+  itemSprite: {fileID: 21300000, guid: 90e99a7fde056a4418b9fe16084adb5c, type: 3}
+  itemName: Golden Sword
+  itemType: 0
+  buyPrice: 270
+  sellPrice: 190
